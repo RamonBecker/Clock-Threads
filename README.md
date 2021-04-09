@@ -21,7 +21,7 @@ The project aims to manipulate threads using a clock, alarm and stopwatch.
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ```sh
-git clone https://github.com/RamonBecker/Relogio.git
+git clone https://github.com/RamonBecker/Clock-Threads.git
 sudo apt update
 sudo apt install build-essential
 sudo apt-get install manpages-dev
@@ -33,7 +33,7 @@ gcc --version
 
 ```sh
 
-git clone https://github.com/RamonBecker/Relogio.git
+git clone https://github.com/RamonBecker/Clock-Threads.git
 or install https://desktop.github.com/ 
 install: https://cygwin.com/install.html
 
